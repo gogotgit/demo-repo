@@ -1,2 +1,5 @@
 #
-stam file
+stam sersdfv le
+
+
+updare 
